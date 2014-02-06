@@ -1,6 +1,7 @@
 set shiftwidth=4 softtabstop=4
 set autoindent
 set expandtab
+set nostartofline
 
 au BufNewFile,BufRead *.ejs set filetype=html
 
