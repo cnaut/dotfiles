@@ -180,7 +180,8 @@ fi
 ## ------------------------------
 ## -- 3) User-customized code --
 ## ------------------------------
-source z/z.sh
+source ~/z/z.sh
 
 ## Define any user-specific variables you want here.
 source ~/.bashrc_custom
+source ~/.bash_prompt
