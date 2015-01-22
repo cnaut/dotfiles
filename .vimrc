@@ -3,6 +3,7 @@ set softtabstop=2
 set autoindent
 set expandtab
 set nostartofline
+set nu
 
 au BufNewFile,BufRead *.ejs set filetype=html
 au BufNewFile,BufRead *.less set filetype=css
